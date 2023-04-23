@@ -1,5 +1,5 @@
 <center>
     <!-- image markdown -->
-    <img src="./logo.png">
+    <img src="./profile/logo.png">
     <b>Minecraft PVP server</b>
 </center>
